@@ -1,17 +1,23 @@
-# 🐍 Snake Game PRO
 
-A modern Snake Game built using Python and Pygame with enhanced UI.
+# 🐍 Snake Game - AZMATH
 
-## ✨ Features
-- Gradient UI 🎨
-- Start Menu 🎮
-- Game Over Screen 💀
-- Score System 📊
-- Smooth Gameplay 🚀
+![Game Screenshot](screenshot.png)
+
+## 🎮 Features
+- Start Button 🖱️
+- Game Over Restart Button 🔁
+- Score & High Score 📊
+- Pause Feature ⏸️
+- Clean Gradient UI 🎨
 
 ## 🚀 Run
-pip install -r requirements.txt  
+pip install pygame  
 python main.py  
+
+## 🎯 Controls
+- Arrow Keys → Move
+- P → Pause
+- Mouse Click → Start/Restart
 
 ## 👨‍💻 Author
 AZMATH
